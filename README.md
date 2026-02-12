@@ -4,14 +4,6 @@
 
 This is an AI-powered real-time training analytics platform designed for Smart India Hackathon. The solution monitors skill training classrooms using computer vision, emotion analysis, and Google's Gemini AI to provide comprehensive insights into training effectiveness, student engagement, and infrastructure compliance.
 
-## Results 
-
-![Uploading 6258286968756617860.jpg…]()
-
-
-![Uploading pd_page-0015.jpg…]()
-
-
 
 ## 🏗️ Architecture & Solution Flow
 
@@ -252,7 +244,7 @@ overall_status = 'COMPLIANT' if all_criteria_met else 'NON-COMPLIANT'
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd "Smart India Hackethon Project"
+cd "College Project"
 ```
 
 2. **Install dependencies**
@@ -413,15 +405,12 @@ compliance_thresholds = {
 - Real-time notifications
 - API rate limiting
 
-## 🤝 Contributing
-
-This project was developed for Smart India Hackathon to address the challenge of monitoring and improving skill training effectiveness using AI and computer vision technologies.
-
 ## 📄 License
 
-This project is developed for educational and hackathon purposes. Please ensure compliance with local privacy laws and regulations when deploying in production environments.
+This project is developed for educational purposes. Please ensure compliance with local privacy laws and regulations when deploying in production environments.
 
 ---
 
 
 **Note**: This solution demonstrates the integration of multiple AI technologies (Computer Vision, Emotion Recognition, and Generative AI) to create a comprehensive training monitoring system. The modular architecture allows for easy customization and scaling based on specific requirements.
+
